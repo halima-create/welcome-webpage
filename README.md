@@ -1,8 +1,7 @@
-🌐 My Simple Webpage Project
+#🌐 My Simple Webpage Project
 
 📝 Project Overview
 This is a beginner-friendly webpage created to learn the basics of web development. The project is divided into three main tasks:
-
 
 ✅ HTML Structure 
 Created a basic HTML webpage structure
@@ -15,7 +14,6 @@ Inserted an image using <img> tag
 
 Added a link (<a>) to GitHub
 
-
 🎨 CSS Styling
 Added colors and gradient backgrounds
 
@@ -27,13 +25,11 @@ Made the layout responsive and clean
 
 Added hover effects on image and button
 
-
 ⚡ dded a button to the webpage
 
 Wrote JavaScript code to show an alert message
 
 Made the button interactive when clicked
-
 
 📁 Files in This Project
 index.html - The main webpage structure
@@ -43,7 +39,6 @@ style.css - All the styling and design
 script.js - JavaScript for button interaction
 
 README.md - This file (project documentation)
-
 
 🚀 How to View
 Download or clone this repository
