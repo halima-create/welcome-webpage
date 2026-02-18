@@ -1,7 +1,9 @@
 🌐 My Simple Webpage Project
+
 📝 Project Overview
 
 This is a beginner-friendly webpage created to learn the basics of web development.
+
 The project includes three main tasks: building with HTML, styling with CSS, and adding interaction with JavaScript.
 
 
@@ -11,9 +13,9 @@ In this project, I:
 
 Created a basic HTML webpage structure
 
-Added headings {<h1>, <h2>} for titles
+Added headings {h1, h2} for titles
 
-Wrote paragraphs {<p>} for descriptive text
+Wrote paragraphs { p } for descriptive text
 
 Inserted an image using the <img> tag
 
